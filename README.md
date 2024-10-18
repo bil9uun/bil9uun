@@ -8,9 +8,9 @@
 
 
 <div align="center">
- <div> - ✨ I’m interested in FullStack Developer</div> 
- <div> - 🏁 I’m currently learning typescript, javascript, html, css</div> 
- <div> - 🤫 How to reach me ig: @bil9uun</div> 
+ <div> - I’m interested in FullStack Developer</div> 
+<!--  <div> - I’m currently learning typescript, javascript, html, css</div>  -->
+ <div> - How to reach me ig: @bil9uun</div> 
 </div>
 
 
@@ -32,14 +32,6 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)&nbsp;
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=flat&logo=mysql&logoColor=white)&nbsp;
 
-
-
-<div align="center">
-  <a href="https://github.com/unenbat623">
-  <img  src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"
-       alt="snake" /></a>
-</div>
-
 ### ⚙️ &nbsp;GitHub Analytics ⚙️
 
 
@@ -50,7 +42,7 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=bil9uun&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
-<h3 align="left">🔥 My Stats <3 🔥</h3>
+<h3 align="left">My Stats</h3>
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=bil9uun&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
